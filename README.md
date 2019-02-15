@@ -32,7 +32,7 @@ The user can use `LibRely` to better understand the packages used in a script au
  `lib_lines()`
 
  - Input parameter(string): a file path to the script
- - Output parameter(print statements):
+ - Output parameter(print statements): a list of two number
  - Function purpose: count the number of lines and characters of the script
 
 
